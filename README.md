@@ -1,1 +1,1 @@
-# Project-SmartContactManager
+# SmartContactManager
